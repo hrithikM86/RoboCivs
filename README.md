@@ -1,6 +1,6 @@
 # RoboCivs - Programmable Robotic Arm
 
-## Overview of Project
+## Overview of the Project
 RoboCivs is a programmable robotic arm designed to perform specific movements, controlled via a mobile application. This project was developed as part of ITSP at IIT Bombay. 
 
 ## Features
