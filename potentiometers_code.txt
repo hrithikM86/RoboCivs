@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-Servo myservo0;
+Servo myservo1;
 Servo myservo2;
 Servo myservo3;
 Servo myservo4;
